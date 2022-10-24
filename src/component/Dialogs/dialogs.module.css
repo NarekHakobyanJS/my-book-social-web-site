@@ -1,0 +1,15 @@
+.dialogs{
+    display: flex;
+    padding: 25px;
+}
+.dialogsItems{
+    margin-right: 70px;
+}
+.dialog{
+    border-bottom : 1px solid white;
+    padding: 5px;
+}
+.dialog a {
+    color : white;
+    text-decoration: none;
+}

@@ -1,0 +1,17 @@
+.add{
+    display: flex;
+    margin: 15px;
+}
+.add button{
+    border: none;
+    background: transparent;
+    color : gold;
+    font-size: 18px;
+    border : 1px solid cyan;
+    cursor: pointer;
+    transition: .3s all linear;
+}
+.add button:hover{
+    background: gold;
+    color: cyan;
+}

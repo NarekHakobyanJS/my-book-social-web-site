@@ -1,0 +1,45 @@
+.users{
+    padding: 15px;
+}
+.user{
+    width: 250px;
+    border: 1px solid white;
+    margin: 15px 0;
+    box-shadow: 8px 8px 8px #FAEA10;
+    text-align: center;
+}
+.userImg{
+    padding: 5px;
+}
+.userImg img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.userBtn button {
+    display: block;
+    margin: 0 auto;
+    background: transparent;
+    width: 70%;
+    color : white;
+    border: 1px solid cyan;
+    cursor: pointer;
+    padding: 8px 0;
+    font-weight: bold;
+    font-size: 18px;
+}
+.userBtn button:hover{
+    background: gold;
+    color : black;
+}
+.selectedPage{
+    font-weight: bold;
+    background: black;
+    color : white;
+}
+.usersItem{
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

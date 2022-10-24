@@ -1,0 +1,10 @@
+.post {
+    border : 1px solid gray;
+    width: 550px;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+.post span{
+    margin: 0 9px;
+}
